@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name />
+  <hideFlags>None</hideFlags>
+  <selectionColor>
+    <r>1</r>
+    <g>0.65</g>
+    <b>0</b>
+    <a>1</a>
+  </selectionColor>
+  <deselectionColor>
+    <r>0.25</r>
+    <g>0.25</g>
+    <b>0.7</b>
+    <a>1</a>
+  </deselectionColor>
+  <preselectionColor>
+    <r>1</r>
+    <g>1</g>
+    <b>1</b>
+    <a>1</a>
+  </preselectionColor>
+  <edgeColor>
+    <r>0</r>
+    <g>0</g>
+    <b>0</b>
+    <a>1</a>
+  </edgeColor>
+  <triangulationColor>
+    <r>0.5943396</r>
+    <g>0.5195799</g>
+    <b>0.5827211</b>
+    <a>1</a>
+  </triangulationColor>
+  <mirroredPartColor>
+    <r>0.5</r>
+    <g>0.5</g>
+    <b>0.5</b>
+    <a>1</a>
+  </mirroredPartColor>
+  <colorPalette />
+</ColorSettings>
